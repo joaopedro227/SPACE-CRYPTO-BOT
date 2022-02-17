@@ -1,0 +1,23 @@
+ PASSO A PASSO PARA VOCÊ INSTALAR E CONFIGURAR O BOT DO SPACE CRYPTO EM SEU COMPUTADOR, QUALQUER DUVIDA SOBRE O BOT VOU ESTAR RESPORNDENDO NO MEU TELEGRAM E INSTAGRAM..
+
+
+📱 Instagram:
+ https://www.instagram.com/cobranft/
+
+💬 CHAT no Telegram:
+https://t.me/+1EllJNJDiqZiMGMx
+ 
+ 
+com o CMD aberto escreva os comandos a seguir sem as ""
+
+   "cd\space"  -  nesse caso estamos entrando na pasta onde está o BOT, caso sua pasta seja diferente copie e cole o caminho no lugar do "space".
+
+   "pip install -r requirements.txt"   -  este comando vai instalar as bibliotecas das funções do python que usamos no BOT
+
+Agora está tudo pronto...
+
+Para iniciar o BOT basta estar com o CMD aberto na pasta do BOT (cd\space) e digitar o seguinte comendo...
+
+   "python space.py"
+
+OBRIGADO GALERINHA! 
