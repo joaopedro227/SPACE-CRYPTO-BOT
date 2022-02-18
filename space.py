@@ -199,7 +199,7 @@ def removeSpaceships():
 
 def clickButtonsFight():
     buttons = positions(images['spg-go-fight'], 0.9)
-    qtd_send_spaceships = 15    
+    qtd_send_spaceships = 12    
     for (x, y, w, h) in buttons:
         moveToWithRandomness(x+(w/2),y+(h/2),1)
         pyautogui.click()
